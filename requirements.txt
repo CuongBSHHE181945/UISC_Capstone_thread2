@@ -5,3 +5,4 @@ openpyxl
 numpy
 sewar
 pillow
+rapidocr-onnxruntime
